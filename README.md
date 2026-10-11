@@ -18,7 +18,7 @@
   <p align="center">
     📍 <strong>Seoul, South Korea 🇰🇷</strong> &nbsp;|&nbsp;
     💻 <strong>Full-Stack Engineer</strong> &nbsp;|&nbsp;
-    🛠️ <strong>4+ years in production</strong>
+    🛠️ <strong>3+ years in production</strong>
   </p>
 
   <!-- Badges Row -->
@@ -48,7 +48,7 @@
 engineer:
   name: "Azamat Solijonov"
   title: "Full-Stack Engineer"
-  experience: "4+ years building and running production web applications"
+  experience: "3+ years building and running production web applications"
   location: "Seoul, South Korea 🇰🇷"
   backend:
     - "Node.js, TypeScript, NestJS (monorepo), Express, GraphQL (Apollo, code-first), REST"
