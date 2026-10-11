@@ -106,7 +106,7 @@ engineer:
         Full-stack marketplace on Node.js / Express and React: search, reviews, orders, franchise directory and real-time updates over Socket.IO. 9 Mongoose schemas, React + Redux + MUI client, server-rendered admin panel for shops and advertising. Deployed with Docker, Nginx and PM2.
       </td>
       <td>
-        <a href="https://github.com/Azamat9507/Cafena"><code>Cafena</code> ↗</a>
+        <code>Private repository</code>
       </td>
     </tr>
     <tr>
