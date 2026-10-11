@@ -133,7 +133,19 @@ engineer:
         Real-estate marketplace with a NestJS monorepo backend and a Next.js 14 frontend using Apollo Client, MUI and i18next.
       </td>
       <td>
-        <code>Private repository</code>
+        <a href="https://github.com/Azamat9507/nestar-next"><code>nestar-next</code> ↗</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🍽️ Burak</b><br/>
+        <sub>Restaurant Ordering Service</sub>
+      </td>
+      <td>
+        REST backend on Node.js, Express and TypeScript with MongoDB: members, product catalogue, orders, JWT auth and a server-rendered EJS admin panel for the restaurant.
+      </td>
+      <td>
+        <a href="https://github.com/Azamat9507/burak"><code>burak</code> ↗</a>
       </td>
     </tr>
   </tbody>
