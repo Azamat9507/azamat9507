@@ -133,7 +133,7 @@ engineer:
         Real-estate marketplace with a NestJS monorepo backend and a Next.js 14 frontend using Apollo Client, MUI and i18next.
       </td>
       <td>
-        <a href="https://github.com/Azamat9507/nestar-demo"><code>nestar-demo</code> ↗</a>
+        <code>Private repository</code>
       </td>
     </tr>
   </tbody>
