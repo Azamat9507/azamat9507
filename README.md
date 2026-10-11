@@ -29,7 +29,6 @@
     <a href="mailto:solijonov.azamat9507@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Azamat9507&style=for-the-badge&color=2563eb&labelColor=0d1117&label=VISITORS" alt="Profile Views" />
   </p>
 
   <!-- Quick Links -->
