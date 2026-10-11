@@ -2,7 +2,7 @@
 
   <!-- Hero Banner -->
   <a href="https://outletking.co.kr" target="_blank">
-    <img src="./assets/hero.svg" alt="Hey! I'm Azamat" width="920" />
+    <img src="./assets/hero.svg" alt="Hey! I'm Allan" width="920" />
   </a>
 
   <br/><br/>
