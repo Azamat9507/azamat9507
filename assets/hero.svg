@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 260" width="1100" height="260" role="img" aria-label="Hey! I'm Azamat">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="blobGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%">
+        <animate attributeName="stop-color" dur="7s" repeatCount="indefinite"
+          values="#22D3EE;#38BDF8;#2DD4BF;#22D3EE"/>
+      </stop>
+      <stop offset="100%">
+        <animate attributeName="stop-color" dur="7s" repeatCount="indefinite"
+          values="#2563EB;#3B82F6;#1D4ED8;#2563EB"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1100" height="260" rx="28" fill="url(#bg)"/>
+
+  <!-- Animated blob behind "I'm" -->
+  <path fill="url(#blobGrad)" opacity="0.96">
+    <animate attributeName="d" dur="5.6s" repeatCount="indefinite"
+      values="
+        M452,66 C516,36 606,46 620,102 C634,158 580,200 516,200 C452,200 406,164 406,122 C406,90 420,80 452,66 Z;
+        M452,60 C524,30 614,52 628,112 C642,172 572,208 508,206 C444,204 398,164 400,120 C402,84 422,76 452,60 Z;
+        M446,72 C518,44 606,50 620,106 C634,162 580,198 518,200 C456,202 404,170 404,128 C404,98 420,86 446,72 Z;
+        M452,66 C516,36 606,46 620,102 C634,158 580,200 516,200 C452,200 406,164 406,122 C406,90 420,80 452,66 Z"/>
+    <animateTransform attributeName="transform" type="translate" dur="4.8s" repeatCount="indefinite"
+      values="0 0; 8 3; 0 0"/>
+  </path>
+
+  <g font-family="Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif" font-weight="900" fill="#FFFFFF" font-size="92">
+    <text x="290" y="162" text-anchor="middle">Hey!</text>
+    <text x="512" y="162" text-anchor="middle">I’m</text>
+    <text x="790" y="162" text-anchor="middle">Azamat</text>
+  </g>
+</svg>
