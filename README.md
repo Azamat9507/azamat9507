@@ -53,6 +53,9 @@ engineer:
   backend:
     - "Node.js, TypeScript, NestJS (monorepo), Express, GraphQL (Apollo, code-first), REST"
     - "MongoDB, Mongoose, Redis, BullMQ, WebSocket, Server-Sent Events"
+  integrations:
+    - "Kakao Login and Google sign-in (OAuth 2.0 / OpenID Connect, server-side code exchange)"
+    - "Kakao Maps (store locator with geocoded addresses)"
   ai:
     - "Google Gemini API (text + image), multi-model failover with timeouts"
     - "Asynchronous image job pipelines with live progress"
@@ -67,6 +70,7 @@ engineer:
 - 🧩 **End-to-end ownership:** I take a product from data model to production — API, frontend, infrastructure and the deploy scripts that ship it.
 - ⚡ **GraphQL backends on NestJS:** Code-first Apollo APIs with JWT guards (required, role-based, optional), strict input validation and MongoDB aggregation pipelines.
 - 🤖 **LLM features in production:** A Gemini AI stylist with 3-model failover on error or an 8 s timeout, and an AI fitting room running as BullMQ jobs on Redis with live SSE progress and per-visitor rate limiting.
+- 🔐 **Social login and maps:** Kakao Login and Google sign-in over OAuth 2.0, with the one-time code exchanged on the server so the client secret never reaches the browser and redirect URIs checked against an allow-list; a Kakao Maps store locator where the map and the shop list follow each other.
 - 🎨 **Frontend systems:** Next.js apps with their own MUI + SCSS design system, dark / light themes, three languages and real-time WebSocket notifications.
 - ☁️ **Self-managed infrastructure:** Nginx reverse proxy, PM2, UFW, Redis, nightly batch jobs and scripted deploys with automatic rollback on DigitalOcean.
 
@@ -89,7 +93,7 @@ engineer:
         <sub>Fashion Outlet Marketplace</sub>
       </td>
       <td>
-        Production marketplace running in English, Korean and Russian. ~28k lines of TypeScript across a <b>NestJS monorepo</b> (API + batch worker) and a <b>Next.js</b> app: 19 modules, 57 GraphQL queries and mutations, 12 MongoDB models. Gemini AI stylist and an asynchronous AI fitting room on BullMQ + Redis with SSE progress. 25 pages, 78 components.
+        Production marketplace running in English, Korean and Russian. ~28k lines of TypeScript across a <b>NestJS monorepo</b> (API + batch worker) and a <b>Next.js</b> app: 19 modules, 57 GraphQL queries and mutations, 12 MongoDB models. Gemini AI stylist and an asynchronous AI fitting room on BullMQ + Redis with SSE progress. Kakao and Google social login, Kakao Maps store locator. 25 pages, 78 components.
       </td>
       <td>
         <a href="https://outletking.co.kr" target="_blank"><code>outletking.co.kr</code> ↗</a><br/>
@@ -165,6 +169,15 @@ engineer:
       <img src="https://img.shields.io/badge/BullMQ_Queues-0f172a?style=for-the-badge&logo=redis&logoColor=f87171" alt="BullMQ" />
       <img src="https://img.shields.io/badge/SSE_Streaming-0f172a?style=for-the-badge&logo=nestjs&logoColor=e0234e" alt="SSE" />
       <img src="https://img.shields.io/badge/Socket.IO-0f172a?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center"><b>🔐 Auth & Maps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kakao_Login-0f172a?style=for-the-badge&logo=kakaotalk&logoColor=ffcd00" alt="Kakao Login" />
+      <img src="https://img.shields.io/badge/Google_Sign--In-0f172a?style=for-the-badge&logo=google&logoColor=4285f4" alt="Google Sign-In" />
+      <img src="https://img.shields.io/badge/Kakao_Maps-0f172a?style=for-the-badge&logo=kakao&logoColor=ffcd00" alt="Kakao Maps" />
+      <img src="https://img.shields.io/badge/JWT-0f172a?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
     </td>
   </tr>
   <tr>
