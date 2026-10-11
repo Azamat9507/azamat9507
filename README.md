@@ -56,9 +56,11 @@ engineer:
   integrations:
     - "Kakao Login and Google sign-in (OAuth 2.0 / OpenID Connect, server-side code exchange)"
     - "Kakao Maps (store locator with geocoded addresses)"
-  ai:
-    - "Google Gemini API (text + image), multi-model failover with timeouts"
-    - "Asynchronous image job pipelines with live progress"
+  ai_specialization:
+    - "Multi-Provider LLM Orchestration (OpenAI GPT-4o, Anthropic Claude 3.5, Google Gemini)"
+    - "LoRA Model Fine-Tuning (Fine-tuned Qwen3-8B beating GPT-4o 73.1% vs 44% at $0 cost)"
+    - "Generative AI Pipelines: Image & Ad-Creative Gen, Whisper Speech-to-Text"
+    - "Real-time SSE Token Streaming, Multi-Turn Memory & AI Worker Queues"
   frontend:
     - "React, Next.js, Apollo Client, Redux, MUI, SCSS, i18next (EN / KR / RU)"
   devops:
