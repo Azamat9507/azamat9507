@@ -33,7 +33,7 @@
     <a href="https://outletking.co.kr" target="_blank">
       <img src="https://img.shields.io/badge/Outlet%20King-outletking.co.kr-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Outlet King" />
     </a>
-    <a href="https://cafena-coffee.com" target="_blank">
+    <a href="https://www.cafena-coffee.com" target="_blank">
       <img src="https://img.shields.io/badge/Cafena-cafena--coffee.com-B45309?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Cafena" />
     </a>
     <a href="mailto:solijonov.azamat9507@gmail.com">
@@ -129,7 +129,7 @@ engineer:
         Full-stack marketplace on Node.js / Express and React: search, reviews, orders, franchise directory and real-time updates over Socket.IO. 9 Mongoose schemas, React + Redux + MUI client, server-rendered admin panel for shops and advertising. Gemini AI ordering assistant that assembles an order from the live menu within the visitor's budget, with prices and totals computed in code. Deployed with Docker, Nginx and PM2.
       </td>
       <td>
-        <a href="https://cafena-coffee.com" target="_blank"><code>cafena-coffee.com</code> ↗</a><br/>
+        <a href="https://www.cafena-coffee.com" target="_blank"><code>cafena-coffee.com</code> ↗</a><br/>
         <code>Production</code><br/>
         <code>Private repository</code>
       </td>
@@ -247,7 +247,7 @@ engineer:
     <img src="https://img.shields.io/badge/OUTLET%20KING-LIVE%20SITE-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Outlet King" />
   </a>
   &nbsp;
-  <a href="https://cafena-coffee.com" target="_blank">
+  <a href="https://www.cafena-coffee.com" target="_blank">
     <img src="https://img.shields.io/badge/CAFENA-LIVE%20SITE-B45309?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Cafena" />
   </a>
   &nbsp;
