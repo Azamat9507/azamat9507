@@ -33,6 +33,9 @@
     <a href="https://outletking.co.kr" target="_blank">
       <img src="https://img.shields.io/badge/Outlet%20King-outletking.co.kr-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Outlet King" />
     </a>
+    <a href="https://cafena-coffee.com" target="_blank">
+      <img src="https://img.shields.io/badge/Cafena-cafena--coffee.com-B45309?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Cafena" />
+    </a>
     <a href="mailto:solijonov.azamat9507@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -242,6 +245,10 @@ engineer:
 
   <a href="https://outletking.co.kr" target="_blank">
     <img src="https://img.shields.io/badge/OUTLET%20KING-LIVE%20SITE-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Outlet King" />
+  </a>
+  &nbsp;
+  <a href="https://cafena-coffee.com" target="_blank">
+    <img src="https://img.shields.io/badge/CAFENA-LIVE%20SITE-B45309?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Cafena" />
   </a>
   &nbsp;
   <a href="mailto:solijonov.azamat9507@gmail.com">
