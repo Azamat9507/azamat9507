@@ -65,7 +65,7 @@ engineer:
     - "AI fitting room: asynchronous image jobs on BullMQ + Redis"
     - "Live job progress over Server-Sent Events, per-visitor rate limiting"
   frontend:
-    - "React, Next.js, Apollo Client, Redux, Tailwind CSS, MUI, SCSS, i18next (EN / KR / RU)"
+    - "React, Next.js, Apollo Client, Redux, MUI, SCSS, i18next (EN / KR / RU)"
   devops:
     - "Linux, Nginx, PM2, Docker, DigitalOcean, scripted deploys with rollback"
   current_role: "Full-Stack Engineer (main developer) @ Outlet King"
@@ -213,7 +213,7 @@ engineer:
   <tr>
     <td width="22%" align="center"><b>🎨 Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,materialui,bootstrap&theme=dark" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=nextjs,react,redux,materialui,bootstrap&theme=dark" alt="Frontend" />
     </td>
   </tr>
   <tr>
