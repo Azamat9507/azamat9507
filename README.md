@@ -9,7 +9,7 @@
 
   <!-- Typing Subtitle -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;NestJS+%E2%80%A2+GraphQL+%E2%80%A2+MongoDB+%E2%80%A2+Redis+%E2%80%A2+BullMQ;Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript;Gemini+AI+%E2%80%A2+SSE+Streaming+%E2%80%A2+Job+Queues;From+data+model+to+production+deploy"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI+Engineer;NestJS+%E2%80%A2+GraphQL+%E2%80%A2+MongoDB+%E2%80%A2+Redis+%E2%80%A2+BullMQ;Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript;Gemini+AI+%E2%80%A2+SSE+Streaming+%E2%80%A2+Job+Queues;From+data+model+to+production+deploy"
     alt="Typing SVG"
   />
 
@@ -18,7 +18,7 @@
   <!-- At a glance -->
   <p align="center">
     <img src="https://img.shields.io/badge/Seoul,_South_Korea-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Seoul, South Korea" />
-    <img src="https://img.shields.io/badge/Full--Stack_Engineer-7C3AED?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Full-Stack Engineer" />
+    <img src="https://img.shields.io/badge/Full--Stack_%26_AI_Engineer-7C3AED?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Full-Stack &amp; AI Engineer" />
     <img src="https://img.shields.io/badge/5+_Years_in_Production-16A34A?style=for-the-badge&logo=rocket&logoColor=white" alt="5+ years in production" />
     <img src="https://img.shields.io/badge/EN_·_KR_·_RU_·_UZ-F59E0B?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Languages: English, Korean, Russian, Uzbek" />
   </p>
@@ -47,7 +47,7 @@
 ```yaml
 engineer:
   name: "Azamat Solijonov"
-  title: "Full-Stack Engineer"
+  title: "Full-Stack & AI Engineer"
   experience: "5+ years building and running production web applications"
   location: "Seoul, South Korea 🇰🇷"
   backend:
