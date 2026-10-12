@@ -25,7 +25,7 @@
 
   <!-- Core stack -->
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,nestjs,graphql,nextjs,react,mongodb,postgres,redis,docker,nginx&theme=dark&perline=10" alt="Core stack" />
+    <img src="https://skillicons.dev/icons?i=ts,nestjs,graphql,nextjs,react,mongodb,redis,docker,nginx&theme=dark&perline=10" alt="Core stack" />
   </p>
 
   <!-- Badges Row -->
@@ -55,13 +55,12 @@ engineer:
   location: "Seoul, South Korea 🇰🇷"
   backend:
     - "Node.js, TypeScript, NestJS (monorepo), Express, GraphQL (Apollo, code-first), REST"
-    - "PostgreSQL, MongoDB, Mongoose, Redis, BullMQ, WebSocket, Server-Sent Events"
+    - "MongoDB, Mongoose, Redis, BullMQ, WebSocket, Server-Sent Events"
   integrations:
-    - "Stripe (subscriptions and billing), Shopify API, Meta Ads API"
     - "Kakao Login and Google sign-in (OAuth 2.0 / OpenID Connect, server-side code exchange)"
     - "Kakao Maps (store locator with geocoded addresses)"
   ai:
-    - "OpenAI API, Anthropic Claude API, Google Gemini API (text + image models)"
+    - "Google Gemini API (text + image models)"
     - "AI stylist with 3-model failover on error or an 8 s timeout"
     - "AI fitting room: asynchronous image jobs on BullMQ + Redis"
     - "Live job progress over Server-Sent Events, per-visitor rate limiting"
@@ -69,8 +68,7 @@ engineer:
     - "React, Next.js, Apollo Client, Redux, Tailwind CSS, MUI, SCSS, i18next (EN / KR / RU)"
   devops:
     - "Linux, Nginx, PM2, Docker, DigitalOcean, scripted deploys with rollback"
-  latest_role: "Senior Full-Stack Engineer @ NOMAD (AI image generation and advertising platform)"
-  own_product: "Outlet King, fashion outlet marketplace (main developer)"
+  current_role: "Full-Stack Engineer (main developer) @ Outlet King"
   languages: "Uzbek, Russian, Korean (TOPIK 4), English"
 ```
 
@@ -87,7 +85,6 @@ engineer:
 
 | Period | Company | Role | Work |
 |---|---|---|---|
-| 2026.02 – 2026.09 | **NOMAD** · USA, remote contract | Senior Full-Stack Engineer | AI image-generation and advertising platform: NestJS / PostgreSQL services, BullMQ jobs, OpenAI, Claude and Gemini integrations, Stripe billing, Shopify and Meta Ads APIs |
 | 2024.07 – 2026.01 | **Neuracode** · remote, international team | Full-Stack Engineer | NestJS / Express services with REST and GraphQL, JWT / OAuth 2.0 / RBAC, WebSocket, Redis caching, React / Next.js frontends |
 | 2023.07 – 2024.06 | **IdeaSoft** · Uzbekistan, remote | Full-Stack Developer | E-commerce and business applications with React, TypeScript and Redux Toolkit on Node.js / Express / MongoDB |
 | 2022.06 – 2023.06 | **IT Brick** · Uzbekistan | Full-Stack Developer | MERN-stack web applications: responsive React UIs, REST APIs with JWT auth, MongoDB data models |
@@ -186,8 +183,6 @@ engineer:
   <tr>
     <td width="22%" align="center"><b>🤖 AI & Queues</b></td>
     <td>
-      <img src="https://img.shields.io/badge/OpenAI-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/Claude-0f172a?style=for-the-badge&logo=anthropic&logoColor=d97757" alt="Claude" />
       <img src="https://img.shields.io/badge/Google_Gemini-0f172a?style=for-the-badge&logo=googlegemini&logoColor=8e75c2" alt="Gemini" />
       <img src="https://img.shields.io/badge/BullMQ_Queues-0f172a?style=for-the-badge&logo=redis&logoColor=f87171" alt="BullMQ" />
       <img src="https://img.shields.io/badge/SSE_Streaming-0f172a?style=for-the-badge&logo=nestjs&logoColor=e0234e" alt="SSE" />
@@ -212,7 +207,7 @@ engineer:
   <tr>
     <td width="22%" align="center"><b>⚡ Backend & Data</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,graphql,apollo,postgres,mongodb,redis&theme=dark" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,graphql,apollo,mongodb,redis&theme=dark" alt="Backend" />
     </td>
   </tr>
   <tr>
