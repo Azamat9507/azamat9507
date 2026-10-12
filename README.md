@@ -15,10 +15,17 @@
 
   <br/>
 
+  <!-- At a glance -->
   <p align="center">
-    📍 <strong>Seoul, South Korea 🇰🇷</strong> &nbsp;|&nbsp;
-    💻 <strong>Full-Stack Engineer</strong> &nbsp;|&nbsp;
-    🛠️ <strong>5+ years in production</strong>
+    <img src="https://img.shields.io/badge/Seoul,_South_Korea-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Seoul, South Korea" />
+    <img src="https://img.shields.io/badge/Full--Stack_Engineer-7C3AED?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Full-Stack Engineer" />
+    <img src="https://img.shields.io/badge/5+_Years_in_Production-16A34A?style=for-the-badge&logo=rocket&logoColor=white" alt="5+ years in production" />
+    <img src="https://img.shields.io/badge/EN_·_KR_·_RU_·_UZ-F59E0B?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Languages: English, Korean, Russian, Uzbek" />
+  </p>
+
+  <!-- Core stack -->
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=ts,nestjs,graphql,nextjs,react,mongodb,postgres,redis,docker,nginx&theme=dark&perline=10" alt="Core stack" />
   </p>
 
   <!-- Badges Row -->
@@ -29,13 +36,6 @@
     <a href="mailto:solijonov.azamat9507@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-  </p>
-
-  <!-- Quick Links -->
-  <p align="center">
-    <a href="https://outletking.co.kr" target="_blank">🌐 <b>Outlet King (live)</b></a>
-    &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="mailto:solijonov.azamat9507@gmail.com">📫 <b>Email</b></a>
   </p>
 
 </div>
@@ -249,3 +249,5 @@ engineer:
   </a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:2563EB&height=110&section=footer" alt="" width="100%" />
