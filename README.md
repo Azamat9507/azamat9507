@@ -52,20 +52,22 @@ engineer:
   location: "Seoul, South Korea 🇰🇷"
   backend:
     - "Node.js, TypeScript, NestJS (monorepo), Express, GraphQL (Apollo, code-first), REST"
-    - "MongoDB, Mongoose, Redis, BullMQ, WebSocket, Server-Sent Events"
+    - "PostgreSQL, MongoDB, Mongoose, Redis, BullMQ, WebSocket, Server-Sent Events"
   integrations:
+    - "Stripe (subscriptions and billing), Shopify API, Meta Ads API"
     - "Kakao Login and Google sign-in (OAuth 2.0 / OpenID Connect, server-side code exchange)"
     - "Kakao Maps (store locator with geocoded addresses)"
   ai:
-    - "Google Gemini API (text + image models)"
+    - "OpenAI API, Anthropic Claude API, Google Gemini API (text + image models)"
     - "AI stylist with 3-model failover on error or an 8 s timeout"
     - "AI fitting room: asynchronous image jobs on BullMQ + Redis"
     - "Live job progress over Server-Sent Events, per-visitor rate limiting"
   frontend:
-    - "React, Next.js, Apollo Client, Redux, MUI, SCSS, i18next (EN / KR / RU)"
+    - "React, Next.js, Apollo Client, Redux, Tailwind CSS, MUI, SCSS, i18next (EN / KR / RU)"
   devops:
     - "Linux, Nginx, PM2, Docker, DigitalOcean, scripted deploys with rollback"
-  current_role: "Full-Stack Engineer (main developer) @ Outlet King"
+  latest_role: "Senior Full-Stack Engineer @ NOMAD (AI image generation and advertising platform)"
+  own_product: "Outlet King, fashion outlet marketplace (main developer)"
   languages: "Uzbek, Russian, Korean (TOPIK 4), English"
 ```
 
@@ -75,6 +77,18 @@ engineer:
 - 🔐 **Social login and maps:** Kakao Login and Google sign-in over OAuth 2.0, with the one-time code exchanged on the server so the client secret never reaches the browser and redirect URIs checked against an allow-list; a Kakao Maps store locator where the map and the shop list follow each other.
 - 🎨 **Frontend systems:** Next.js apps with their own MUI + SCSS design system, dark / light themes, three languages and real-time WebSocket notifications.
 - ☁️ **Self-managed infrastructure:** Nginx reverse proxy, PM2, UFW, Redis, nightly batch jobs and scripted deploys with automatic rollback on DigitalOcean.
+
+---
+
+### 💼 Experience
+
+| Period | Company | Role | Work |
+|---|---|---|---|
+| 2026.02 – 2026.09 | **NOMAD** · USA, remote contract | Senior Full-Stack Engineer | AI image-generation and advertising platform: NestJS / PostgreSQL services, BullMQ jobs, OpenAI, Claude and Gemini integrations, Stripe billing, Shopify and Meta Ads APIs |
+| 2024.07 – 2026.01 | **Neuracode** · remote, international team | Full-Stack Engineer | NestJS / Express services with REST and GraphQL, JWT / OAuth 2.0 / RBAC, WebSocket, Redis caching, React / Next.js frontends |
+| 2023.07 – 2024.06 | **IdeaSoft** · Uzbekistan, remote | Full-Stack Developer | E-commerce and business applications with React, TypeScript and Redux Toolkit on Node.js / Express / MongoDB |
+| 2022.06 – 2023.06 | **IT Brick** · Uzbekistan | Full-Stack Developer | MERN-stack web applications: responsive React UIs, REST APIs with JWT auth, MongoDB data models |
+| 2021.02 – 2022.05 | **FortoPro** · Uzbekistan | Frontend Developer | Frontend of the fpg.uz IT equipment store: catalog, brand pages, product listings and responsive layouts |
 
 ---
 
@@ -109,7 +123,7 @@ engineer:
         <sub>Coffee Marketplace</sub>
       </td>
       <td>
-        Full-stack marketplace on Node.js / Express and React: search, reviews, orders, franchise directory and real-time updates over Socket.IO. 9 Mongoose schemas, React + Redux + MUI client, server-rendered admin panel for shops and advertising. Deployed with Docker, Nginx and PM2.
+        Full-stack marketplace on Node.js / Express and React: search, reviews, orders, franchise directory and real-time updates over Socket.IO. 9 Mongoose schemas, React + Redux + MUI client, server-rendered admin panel for shops and advertising. Gemini AI ordering assistant that assembles an order from the live menu within the visitor's budget, with prices and totals computed in code. Deployed with Docker, Nginx and PM2.
       </td>
       <td>
         <a href="https://cafena-coffee.com" target="_blank"><code>cafena-coffee.com</code> ↗</a><br/>
@@ -120,16 +134,16 @@ engineer:
     <tr>
       <td>
         <b>🛒 E-commerce Storefronts</b><br/>
-        <sub>Freelance · Uzbekistan</sub>
+        <sub>Frontend · 2021 – 2024</sub>
       </td>
       <td>
-        Production storefronts delivered directly with clients from scoping to launch. Frontend architecture with React, TypeScript and Redux on REST backends: catalogs, filtering, product pages, multi-currency pricing and responsive layouts.
+        Production e-commerce storefronts. Frontend architecture with React, TypeScript and Redux on REST backends: catalogs, filtering, product pages, multi-currency pricing and responsive layouts.
       </td>
       <td>
         <a href="https://fpg.uz" target="_blank"><code>fpg.uz</code> ↗</a><br/>
         <a href="https://tovar.uz" target="_blank"><code>tovar.uz</code> ↗</a><br/>
-        <a href="https://mytech.uz" target="_blank"><code>mytech.uz</code> ↗</a><br/>
-        <a href="https://four.uz" target="_blank"><code>four.uz</code> ↗</a>
+        <a href="https://olcha.uz" target="_blank"><code>olcha.uz</code> ↗</a><br/>
+        <a href="https://us-appliance.com" target="_blank"><code>us-appliance.com</code> ↗</a>
       </td>
     </tr>
     <tr>
@@ -169,6 +183,8 @@ engineer:
   <tr>
     <td width="22%" align="center"><b>🤖 AI & Queues</b></td>
     <td>
+      <img src="https://img.shields.io/badge/OpenAI-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Claude-0f172a?style=for-the-badge&logo=anthropic&logoColor=d97757" alt="Claude" />
       <img src="https://img.shields.io/badge/Google_Gemini-0f172a?style=for-the-badge&logo=googlegemini&logoColor=8e75c2" alt="Gemini" />
       <img src="https://img.shields.io/badge/BullMQ_Queues-0f172a?style=for-the-badge&logo=redis&logoColor=f87171" alt="BullMQ" />
       <img src="https://img.shields.io/badge/SSE_Streaming-0f172a?style=for-the-badge&logo=nestjs&logoColor=e0234e" alt="SSE" />
@@ -193,13 +209,13 @@ engineer:
   <tr>
     <td width="22%" align="center"><b>⚡ Backend & Data</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,graphql,apollo,mongodb,redis&theme=dark" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,graphql,apollo,postgres,mongodb,redis&theme=dark" alt="Backend" />
     </td>
   </tr>
   <tr>
     <td width="22%" align="center"><b>🎨 Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,redux,materialui,bootstrap&theme=dark" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,materialui,bootstrap&theme=dark" alt="Frontend" />
     </td>
   </tr>
   <tr>
