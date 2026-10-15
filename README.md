@@ -9,7 +9,7 @@
 
   <!-- Typing Subtitle -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI+Engineer;NestJS+%E2%80%A2+GraphQL+%E2%80%A2+MongoDB+%E2%80%A2+Redis+%E2%80%A2+BullMQ;Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript;Gemini+AI+%E2%80%A2+SSE+Streaming+%E2%80%A2+Job+Queues;From+data+model+to+production+deploy"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack%2C+DevOps+%26+AI+Engineer;NestJS+%E2%80%A2+GraphQL+%E2%80%A2+MongoDB+%E2%80%A2+Redis+%E2%80%A2+BullMQ;Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript;LLM+%E2%80%A2+RAG+%E2%80%A2+PyTorch+%E2%80%A2+Transformers;From+data+model+to+production+deploy"
     alt="Typing SVG"
   />
 
@@ -18,9 +18,9 @@
   <!-- At a glance -->
   <p align="center">
     <img src="https://img.shields.io/badge/Seoul,_South_Korea-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Seoul, South Korea" />
-    <img src="https://img.shields.io/badge/Full--Stack_%26_AI_Engineer-7C3AED?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Full-Stack &amp; AI Engineer" />
+    <img src="https://img.shields.io/badge/Full--Stack,_DevOps_%26_AI_Engineer-7C3AED?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Full-Stack, DevOps &amp; AI Engineer" />
     <img src="https://img.shields.io/badge/5+_Years_in_Production-16A34A?style=for-the-badge&logo=rocket&logoColor=white" alt="5+ years in production" />
-    <img src="https://img.shields.io/badge/EN_·_KR_·_RU_·_UZ-F59E0B?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Languages: English, Korean, Russian, Uzbek" />
+    <img src="https://img.shields.io/badge/KR_·_EN-F59E0B?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Languages: Korean, English" />
   </p>
 
   <!-- Core stack -->
@@ -50,7 +50,7 @@
 ```yaml
 engineer:
   name: "Azamat Solijonov"
-  title: "Full-Stack & AI Engineer"
+  title: "Full-Stack, DevOps & AI Engineer"
   experience: "5+ years building and running production web applications"
   location: "Seoul, South Korea 🇰🇷"
   backend:
@@ -65,16 +65,21 @@ engineer:
     - "AI stylist with 3-model failover on error or an 8 s timeout"
     - "AI fitting room: asynchronous image jobs on BullMQ + Redis"
     - "Live job progress over Server-Sent Events, per-visitor rate limiting"
+    - "RAG systems and agentic AI pipelines with structured output"
+  machine_learning:
+    - "Python, PyTorch, Hugging Face Transformers, OpenCV, scikit-learn"
+    - "CNN transfer learning (MobileNetV2), Korean review sentiment (RoBERTa)"
   frontend:
     - "React, Next.js, Apollo Client, Redux, Tailwind CSS, MUI, SCSS, i18next (EN / KR / RU)"
   devops:
     - "Linux, Nginx, PM2, Docker, DigitalOcean, scripted deploys with rollback"
-  latest_role: "Senior Full-Stack Engineer @ NOMAD (AI image generation and advertising platform)"
+  latest_role: "Full-Stack & AI Engineer @ AI Intellect (AI image generation and advertising platform)"
   own_product: "Outlet King, fashion outlet marketplace (main developer)"
-  languages: "Uzbek, Russian, Korean (TOPIK 4), English"
+  languages: "Korean (TOPIK 4), English"
+  education: "Chung Cheong University, Computer Electronics (associate degree, 2026)"
 ```
 
-- 🧩 **End-to-end ownership:** I take a product from data model to production — API, frontend, infrastructure and the deploy scripts that ship it.
+- 🧩 **End-to-end ownership:** I take a product from data model to production: API, frontend, infrastructure and the deploy scripts that ship it.
 - ⚡ **GraphQL backends on NestJS:** Code-first Apollo APIs with JWT guards (required, role-based, optional), strict input validation and MongoDB aggregation pipelines.
 - 🤖 **LLM features in production:** A Gemini AI stylist with 3-model failover on error or an 8 s timeout, and an AI fitting room running as BullMQ jobs on Redis with live SSE progress and per-visitor rate limiting.
 - 🔐 **Social login and maps:** Kakao Login and Google sign-in over OAuth 2.0, with the one-time code exchanged on the server so the client secret never reaches the browser and redirect URIs checked against an allow-list; a Kakao Maps store locator where the map and the shop list follow each other.
@@ -87,11 +92,19 @@ engineer:
 
 | Period | Company | Role | Work |
 |---|---|---|---|
-| 2026.02 – 2026.09 | **NOMAD** · USA, remote contract | Senior Full-Stack Engineer | AI image-generation and advertising platform: NestJS / PostgreSQL services, BullMQ jobs, OpenAI, Claude and Gemini integrations, Stripe billing, Shopify and Meta Ads APIs |
-| 2024.07 – 2026.01 | **Neuracode** · remote, international team | Full-Stack Engineer | NestJS / Express services with REST and GraphQL, JWT / OAuth 2.0 / RBAC, WebSocket, Redis caching, React / Next.js frontends |
+| 2024.07 – 2026.09 | **AI Intellect** · remote, international team | Full-Stack & AI Engineer | AI image-generation and advertising platform: NestJS / PostgreSQL services, BullMQ jobs, OpenAI, Claude and Gemini, Stripe billing, Shopify and Meta Ads APIs; REST / GraphQL backends with JWT / OAuth 2.0 / RBAC, WebSocket, Redis caching; React / Next.js frontends |
 | 2023.07 – 2024.06 | **IdeaSoft** · Uzbekistan, remote | Full-Stack Developer | E-commerce and business applications with React, TypeScript and Redux Toolkit on Node.js / Express / MongoDB |
-| 2022.06 – 2023.06 | **IT Brick** · Uzbekistan | Full-Stack Developer | MERN-stack web applications: responsive React UIs, REST APIs with JWT auth, MongoDB data models |
+| 2022.06 – 2023.06 | **IT Brick** · Uzbekistan | Backend Developer | REST API backends on Node.js / Express: JWT and session auth, role-based access, MongoDB data models, file uploads |
 | 2021.02 – 2022.05 | **FortoPro** · Uzbekistan | Frontend Developer | Frontend of the fpg.uz IT equipment store: catalog, brand pages, product listings and responsive layouts |
+
+---
+
+### 🎓 Education
+
+| Period | School | Major | Degree |
+|---|---|---|---|
+| 2024.03 – 2026.02 | **Chung Cheong University** (충청대학교) · South Korea | Computer Electronics | Associate degree, graduated |
+| 2020.03 – 2022.02 | **Yongin Songdam College** (용인송담대학) · South Korea | Hotel & Tourism | Associate degree, graduated |
 
 ---
 
@@ -112,7 +125,7 @@ engineer:
         <sub>Fashion Outlet Marketplace</sub>
       </td>
       <td>
-        Production marketplace running in English, Korean and Russian. ~28k lines of TypeScript across a <b>NestJS monorepo</b> (API + batch worker) and a <b>Next.js</b> app: 19 modules, 57 GraphQL queries and mutations, 12 MongoDB models. Gemini AI stylist and an asynchronous AI fitting room on BullMQ + Redis with SSE progress. Kakao and Google social login, Kakao Maps store locator. 25 pages, 78 components.
+        Production marketplace running in English, Korean and Russian. ~31k lines of TypeScript across a <b>NestJS monorepo</b> (API + batch worker) and a <b>Next.js</b> app: 19 modules, 61 GraphQL queries and mutations, 12 MongoDB models. Gemini AI stylist and an asynchronous AI fitting room on BullMQ + Redis with SSE progress. Kakao and Google social login, Kakao Maps store locator. 28 pages, 92 components.
       </td>
       <td>
         <a href="https://outletking.co.kr" target="_blank"><code>outletking.co.kr</code> ↗</a><br/>
@@ -132,6 +145,32 @@ engineer:
         <a href="https://www.cafena-coffee.com" target="_blank"><code>cafena-coffee.com</code> ↗</a><br/>
         <code>Production</code><br/>
         <code>Private repository</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🍔 Menu Detector</b><br/>
+        <sub>AI · Computer Vision</sub>
+      </td>
+      <td>
+        Names the dish in a photo. MobileNetV2 pretrained on ImageNet, adapted to a six-item menu with transfer learning in PyTorch: head first with the backbone frozen, then the whole network fine-tuned. Trained on Food-101 and measured on 1,750 test photos the model never saw: <b>95.7% accuracy</b> with 2.2M parameters.
+      </td>
+      <td>
+        <code>PyTorch</code><br/>
+        <code>MobileNetV2</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>💬 Review Sentiment</b><br/>
+        <sub>AI · NLP</sub>
+      </td>
+      <td>
+        Reads a Korean shopping review and says whether the buyer was happy. klue/roberta-small fine-tuned in PyTorch on Naver shopping reviews and compared with a TF-IDF + logistic regression baseline on the same test set: <b>93.2% accuracy</b>, F1 0.932 on 20,000 held-out reviews.
+      </td>
+      <td>
+        <code>Transformers</code><br/>
+        <code>RoBERTa</code>
       </td>
     </tr>
     <tr>
@@ -192,6 +231,13 @@ engineer:
       <img src="https://img.shields.io/badge/BullMQ_Queues-0f172a?style=for-the-badge&logo=redis&logoColor=f87171" alt="BullMQ" />
       <img src="https://img.shields.io/badge/SSE_Streaming-0f172a?style=for-the-badge&logo=nestjs&logoColor=e0234e" alt="SSE" />
       <img src="https://img.shields.io/badge/Socket.IO-0f172a?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center"><b>🧠 Machine Learning</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn&theme=dark" alt="Machine learning" />
+      <img src="https://img.shields.io/badge/Hugging_Face-0f172a?style=for-the-badge&logo=huggingface&logoColor=ffd21e" alt="Hugging Face" />
     </td>
   </tr>
   <tr>
