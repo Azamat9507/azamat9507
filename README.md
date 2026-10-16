@@ -129,6 +129,7 @@ engineer:
       </td>
       <td>
         <a href="https://outletking.co.kr" target="_blank"><code>outletking.co.kr</code> ↗</a><br/>
+        <a href="https://github.com/Azamat9507/outlet-king"><code>outlet-king</code> ↗</a><br/>
         <code>Production</code><br/>
         Main developer
       </td>
@@ -143,8 +144,8 @@ engineer:
       </td>
       <td>
         <a href="https://www.cafena-coffee.com" target="_blank"><code>cafena-coffee.com</code> ↗</a><br/>
-        <code>Production</code><br/>
-        <code>Private repository</code>
+        <a href="https://github.com/Azamat9507/cafena-marketplace"><code>cafena-marketplace</code> ↗</a><br/>
+        <code>Production</code>
       </td>
     </tr>
     <tr>
