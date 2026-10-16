@@ -156,6 +156,7 @@ engineer:
         Names the dish in a photo. MobileNetV2 pretrained on ImageNet, adapted to a six-item menu with transfer learning in PyTorch: head first with the backbone frozen, then the whole network fine-tuned. Trained on Food-101 and measured on 1,750 test photos the model never saw: <b>95.7% accuracy</b> with 2.2M parameters.
       </td>
       <td>
+        <a href="https://github.com/Azamat9507/ai-projects/tree/main/menu_detector"><code>ai-projects</code> ↗</a><br/>
         <code>PyTorch</code><br/>
         <code>MobileNetV2</code>
       </td>
@@ -169,6 +170,7 @@ engineer:
         Reads a Korean shopping review and says whether the buyer was happy. klue/roberta-small fine-tuned in PyTorch on Naver shopping reviews and compared with a TF-IDF + logistic regression baseline on the same test set: <b>93.2% accuracy</b>, F1 0.932 on 20,000 held-out reviews.
       </td>
       <td>
+        <a href="https://github.com/Azamat9507/ai-projects/tree/main/review_sentiment"><code>ai-projects</code> ↗</a><br/>
         <code>Transformers</code><br/>
         <code>RoBERTa</code>
       </td>
